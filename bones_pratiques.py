@@ -16,6 +16,6 @@ Divisor = int(input("Divisor de la operación"))
 
 Cociente = Dividendo//Divisor
 Resto = Dividendo % Divisor
-print(f"La división es: {Dividendo/Divisor} /n")
-print(f"El coeficiente de la división es:{Cociente} /n")
+print(f"La división es: {Dividendo}/{Divisor}")
+print(f"El coeficiente de la división es:{Cociente}")
 print(f"El resto de la división es:{Resto}")
