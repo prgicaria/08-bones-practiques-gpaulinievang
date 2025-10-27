@@ -11,8 +11,8 @@ __author__ = "Gabriela Paulini"
 __contact__ = "gpaulini@instituticaria.cat"
 __date__ = "2025/10/22"
 
-Divisor = int(input("Divisor de la operación"))
 Dividendo = int(input("Dividendo de la operación"))
+Divisor = int(input("Divisor de la operación"))
 
 Cociente = Dividendo//Divisor
 Resto = Dividendo % Divisor
